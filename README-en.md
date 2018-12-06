@@ -55,3 +55,6 @@ Or use csrf to attack the logged in administrator.
 ```
 
 ![1](/files/5.png)
+
+
+Because freeswitch often runs with high privileges, it can also achieve the effect of privilege escalation
