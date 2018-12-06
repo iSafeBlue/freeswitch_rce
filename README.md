@@ -1,2 +1,2 @@
 
-* [english](https://github.com/iSafeBlue/freeswitch_rce/README-en.md) 
+* [EN](https://github.com/iSafeBlue/freeswitch_rce/blob/master/README-en.md) 
